@@ -1,4 +1,4 @@
-// app.js placeholder// RPG du Quotidien — Mobile (single currency: Gemmes, intensité, paliers XP, historique, export/import)
+// RPG du Quotidien — Mobile (single currency: Gemmes, intensité, paliers XP, historique, export/import)
 // Data persisted locally (localStorage). PWA-ready.
 
 const STORAGE_KEY = "rpg_quotidien_v1";
